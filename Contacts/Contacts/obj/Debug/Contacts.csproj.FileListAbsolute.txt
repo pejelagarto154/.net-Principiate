@@ -1,0 +1,10 @@
+E:\proyectos\.net Principiantes\Contacts\Contacts\bin\Debug\Contacts.exe.config
+E:\proyectos\.net Principiantes\Contacts\Contacts\bin\Debug\Contacts.exe
+E:\proyectos\.net Principiantes\Contacts\Contacts\bin\Debug\Contacts.pdb
+E:\proyectos\.net Principiantes\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+E:\proyectos\.net Principiantes\Contacts\Contacts\obj\Debug\Contacts.ContactDetails.resources
+E:\proyectos\.net Principiantes\Contacts\Contacts\obj\Debug\Contacts.Main.resources
+E:\proyectos\.net Principiantes\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+E:\proyectos\.net Principiantes\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+E:\proyectos\.net Principiantes\Contacts\Contacts\obj\Debug\Contacts.exe
+E:\proyectos\.net Principiantes\Contacts\Contacts\obj\Debug\Contacts.pdb
